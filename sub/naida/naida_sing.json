@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "proxies": [
+    {
+      "name": "\ud83c\uddeb\ud83c\uddee 1-ch Reality",
+      "type": "vless",
+      "server": "1-ch.mooo.com",
+      "port": 443,
+      "uuid": "2bbc4631-2fd0-4c43-91a0-0b98d53b05cd",
+      "flow": "xtls-rprx-vision",
+      "tls": {
+        "enabled": true,
+        "server_name": "yahoo.com",
+        "reality": {
+          "enabled": true,
+          "public_key": "DiPTLWNxaRKMdNguG6tXpS1BCWyVa2JrgdOQIhTkKiU",
+          "short_id": "31"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    }
+  ]
+}
