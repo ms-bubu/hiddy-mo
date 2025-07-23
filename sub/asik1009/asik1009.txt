@@ -1,1 +1,1 @@
-vless://99f5b1ef-fae3-4b30-9973-b97ebb2d5068@one-user.mooo.com:443?type=tcp&security=tls&fp=chrome&alpn=http%2F1.1&flow=xtls-rprx-vision#one-user-asik1009%40gmail.com
+vless://99f5b1ef-fae3-4b30-9973-b97ebb2d5068@one-user.mooo.com:443?type=tcp&security=reality&pbk=zgVYLZibaDBIPqnwCnnfgYNecMn3i3IcRe-vfjqjjFU&fp=chrome&sni=yahoo.com&sid=a9e6f6&spx=%2F&flow=xtls-rprx-vision#one-user-asik1009%40gmail.com
