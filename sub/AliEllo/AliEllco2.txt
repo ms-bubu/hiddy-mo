@@ -1,2 +1,0 @@
-
-vless://dc91b927-2c1c-484c-b5f9-3fc70c19becb@87.121.86.86:443?type=tcp&encryption=none&security=reality&pbk=syxF_utqgy8hv-t2wGnFJe_aUTvgOrKDN5WCCeyTYGQ&fp=chrome&sni=sun6-21.userapi.com&sid=10&spx=%2F&flow=xtls-rprx-vision#sun6-21.userapi.com-ALI2
